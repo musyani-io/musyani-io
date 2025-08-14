@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I’m Samuel Musyani!
+
+🎓 **Electronics Engineering Student**  
+University of Dar es Salaam
+
+🔧 **Tech Enthusiast | Embedded Systems & Automation**  
+- Intermediate in embedded systems  
+- Beginner in system automation (PLCs)  
+- Always learning and exploring new tech!
+
+## 🚀 Notable Project
+- **Grain Storage Monitor**  
+  Currently under design, integration, and calibration. Stay tuned for updates as the project progresses!
+
+## 👨‍💻 Skills
+- Electronics Design & Debugging
+- Microcontrollers & Embedded C/C++
+- System Automation (PLC basics)
+
+## 🎮 Interests
+- Automation & tech innovation
+- Gaming
+- Football & Volleyball (yes, I play both!)
+
+---
+
+> “Always curious, always building. Let’s connect and innovate!”
 
 <!--
-**musyani-io/musyani-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Musyani67/Musyani67** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
