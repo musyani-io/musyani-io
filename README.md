@@ -4,13 +4,15 @@
 University of Dar es Salaam
 
 🔧 **Tech Enthusiast | Embedded Systems & Automation**  
-- Intermediate in embedded systems  
-- Beginner in system automation (PLCs)  
+- Intermediate student in embedded systems  
+- Beginner in BackEnd development  
 - Always learning and exploring new tech!
 
-## 🚀 Notable Project
+## 🚀 Notable Projects
 - **Grain Storage Monitor**  
   Currently under design, integration, and calibration. Stay tuned for updates as the project progresses!
+- **IoT Sardines Drying System**
+  Currently under firmware design. Hardware integration is yet to come!
 
 ## 👨‍💻 Skills
 - Electronics Design & Debugging
@@ -18,9 +20,9 @@ University of Dar es Salaam
 - System Automation (PLC basics)
 
 ## 🎮 Interests
-- Automation & tech innovation
+- Automation & Tech innovation
 - Gaming
-- Football & Volleyball (yes, I play both!)
+- Football & Volleyball
 
 ---
 
