@@ -4,8 +4,8 @@
 University of Dar es Salaam
 
 🔧 **Tech Enthusiast | Embedded Systems & Automation**  
-- Intermediate student in embedded systems  
-- Beginner in BackEnd development  
+- Proficient in embedded systems  
+- Exploring foundations in BackEnd development  
 - Always learning and exploring new tech!
 
 ## 👨‍💻 Skills
