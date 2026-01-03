@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Electronics Engineering Student | University of Dar es Salaam<br><br>👩‍💻 Tech Enthusiast<br>👨‍🔧 Proficient in embedded systems<br>⚡Skilled in electronics and PCB design<br>⏫ Developing proficiency in full-stack development<br>
+🎓 Electronics Engineering Student | University of Dar es Salaam<br><br>👩‍💻 Tech Enthusiast<br>👨‍🔧 Proficient in embedded systems<br>⚡Skilled in electronics and PCB design<br>⏫ Developing proficiency in back-end development<br>
 
 
 ## 🌐 Socials:
