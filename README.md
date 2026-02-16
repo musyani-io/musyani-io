@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Hello there 👋🏽, the name is Musyani!</h2>
+<h2 align="center">Hello there 👋🏽, I am Samuel Musyani!</h2>
 
 ###
 
