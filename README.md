@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Electronics Engineering | Embedded & Systems Builder<br>University of Dar es Salaam<br><br>Currently building self-service card issuance systems (embedded, electromechanical, system integration) and aquabill_app (mobile billing platform with backend logic)<br><br>🧠 Systems-first problem solver<br>👨‍🔧 Embedded systems, firmware, and hardware integration<br>⚡ Electronics & PCB design for real deployments<br>🔗 Bridging hardware with scalable backend services
+🚀 Electronics Engineering | Embedded Systems<br>🖊️ University of Dar es Salaam<br><br>Currently building self-service card issuance systems (embedded, electromechanical, system integration)<br><br>🧠 Systems-first problem solver<br>👨‍🔧 Embedded systems, firmware, and hardware integration<br>⚡ Electronics & PCB design for real deployments<br>🔗 Bridging hardware with scalable backend services
 
 
 ## 🌐 Socials:
