@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Electronics Engineer | Embedded Systems<br>🎓 Graduate, University of Dar es Salaam<br>⚡ Hardware: Circuit Design, PCB Layouts, Automation (PLC)<br>👨‍🔧 Firmware: Embedded Systems & Hardware Integration<br>🔗 Software: Exploring backend & mobile development to scale hardware solutions<br>🧠 Systems-first approach to bridging physical and digital deployments
+🚀 Electronics Engineer | Embedded Systems<br>🎓 Graduate, University of Dar es Salaam<br>⚡ Hardware: Circuit Design, PCB Layouts, Automation (PLC)<br>👨‍🔧 Embedded Systems: Firmware development & Hardware Integration<br>🔗 Software: Exploring backend & mobile development to scale hardware solutions<br>🧠 Systems-first approach to bridging physical and digital deployments
 
 
 ## 🌐 Socials:
